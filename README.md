@@ -21,6 +21,7 @@ What's Inside 📦
 
 - `SCHEMA.sql` SQL queries used to establish the Schema.
 - `Report_SQL_CaseStudy3.pdf`: An in-depth report of the analysis, covering key findings and conclusions.
+-  `Questions&Answers.sql`: Answers of the questions from the case study.
 
 Reflections 💭
 
