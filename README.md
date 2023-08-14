@@ -15,7 +15,7 @@ Challenge Details 🎯
 
 The case study, "Nourishing Growth: A Comprehensive Studyon Foodie-Fi's Subscription Dynamics" offers a series of challenges that shed light on customer preferences, business performance, and areas for potential growth.
 
-Link to the case study: [8 Week SQL Challenge - Case Study 3]([https://8weeksqlchallenge.com/case-study-3/])
+Link to the case study: [8 Week SQL Challenge - Case Study 3](https://8weeksqlchallenge.com/case-study-3/)
 
 What's Inside 📦
 
