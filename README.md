@@ -4,6 +4,7 @@ Foodie-Fi_SQL_Analysis
 "Nourishing Growth: A Comprehensive Studyon Foodie-Fi's Subscription Dynamics" is part of the 8weekssqlchallenge by Danny Ma. This case study delves into Foodie-Fi's subscription model, examining customer behavior, churn rates, and revenue streams.
 
 Foodie-Fi SQL Case Study 🍽️📈
+![3](https://github.com/fatihhsahin1/SQL_CaseStudy3/assets/76142095/ad09d01c-f05f-4e74-8a55-fae5599e8d9d)
 
 Welcome to my solutions for the Foodie-Fi SQL Case Study as part of the #8weekSQLchallenge by Danny Ma.
 
